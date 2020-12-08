@@ -100,7 +100,7 @@ capabilities. Our primary recommendation is to use one of these:
         Jenkins](https://www.we45.com/blog/how-to-integrate-zap-into-jenkins-ci-pipeline-we45-blog)).
   - [Arachni](http://www.arachni-scanner.com/) - Arachni is a
     commercially supported scanner, but its free for most use cases,
-    including scanning open source projects.
+    including scanning open source projects (this open Ssurce project has been disciontinued).
   - [VWT Digital's sec-helpers](https://github.com/vwt-digital/sec-helpers/tree/master) -
     Collection of dynamic security related helpers.
     Sec-helpers is a bundle of useful tests and validators to ensure the security of
